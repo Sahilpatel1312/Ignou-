@@ -4,6 +4,7 @@ import React from "react";
 import { MadeWithDyad } from "@/components/made-with-dyad";
 import CourseCard from "@/components/CourseCard";
 import CounsellingForm from "@/components/CounsellingForm";
+import { Button } from "@/components/ui/button"; // Added this import
 
 const dummyCourses = [
   {
